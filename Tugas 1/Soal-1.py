@@ -62,8 +62,3 @@ if __name__=="__main__":
     print("Tinggi anda  : "+tinggi+ "cm")
 
     print("\n")
-
-# Kekurangan program ini.
-# validasi format regex
-# validasi rentang nilai, misal umur harus diantara nilai 0 sampai 63.
-# dan lain-lain
