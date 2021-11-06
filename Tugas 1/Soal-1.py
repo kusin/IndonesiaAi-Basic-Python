@@ -36,7 +36,7 @@ tinggi = ""
 if __name__=="__main__":
     # Hapus layar / clear screen
     # Baris pertama dari keluaran program adalah masukan program bukan path directory program. 
-    os.system('cls' if os.name == 'nt' else 'clear')
+    #os.system('cls' if os.name == 'nt' else 'clear')
     
     # Masukan
     print("Masukan program ...")
